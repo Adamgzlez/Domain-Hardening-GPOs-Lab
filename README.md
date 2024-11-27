@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Domain hardening GPOs lab was done . The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Domain hardening GPOs lab was done to build on group, account policy management and reduce vulnerabilities. The primary objective was to harden the system with calculated measures to ensure the group policy objectives were being met.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -19,6 +19,9 @@ The Domain hardening GPOs lab was done . The primary focus was to ingest and ana
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows server machine
+- Windows 10 machine
+- Windows RDP Host machine
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
