@@ -27,3 +27,7 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+1. Creating a GPO to disable Local Link Multicast Name Resolution (LLMNR) 
+2. Creating a GPO to setup account lockout 
+3.
+4.
