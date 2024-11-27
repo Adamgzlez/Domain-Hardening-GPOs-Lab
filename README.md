@@ -20,15 +20,19 @@ The Domain hardening GPOs lab was done to build on group, account policy managem
 - Powershell for scripting.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
 1. Creating a GPO to disable Local Link Multicast Name Resolution (LLMNR) 
+
+Disabling LLMNR as it can accept any response as authentic allowing attackers to posion or spoof LLMNR responses.
+
 2. Creating a GPO to setup account lockout 
+
+Defending against brute force attacks with account lockouts.
+
 3. Creating a GPO to enable verbose Powershell logging and transcription
-4. Scripting access control lists
-  
+
+Disabling powershell on a workstation VM to migitate protential threats from using it.
+
+4. Scripting access control lists (ACLS)
+
+Scripting ACL to manage which principals can access which resources.
