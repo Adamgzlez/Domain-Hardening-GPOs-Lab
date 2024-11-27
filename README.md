@@ -29,5 +29,6 @@ Example below.
 *Ref 1: Network Diagram*
 1. Creating a GPO to disable Local Link Multicast Name Resolution (LLMNR) 
 2. Creating a GPO to setup account lockout 
-3.
-4.
+3. Creating a GPO to enable verbose Powershell logging and transcription
+4. Scripting access control lists
+  
