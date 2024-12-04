@@ -32,6 +32,9 @@ Disabling LLMNR as it can accept any response as authentic allowing attackers to
 
 Defending against brute force attacks with account lockouts.
 
+[Account Lockout Policies
+](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/Account-Lockout-Policies.png)
+
 3. Creating a GPO to enable verbose Powershell logging and transcription
 
 Disabling powershell on a workstation VM to migitate protential threats from using it.
@@ -41,5 +44,4 @@ Disabling powershell on a workstation VM to migitate protential threats from usi
 Scripting ACL to manage which principals can access which resources.
 
 
-[pic
-](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/Account-Lockout-Policies.png)
+
