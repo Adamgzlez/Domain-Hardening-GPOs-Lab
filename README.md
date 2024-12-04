@@ -25,7 +25,7 @@ The Domain hardening GPOs lab was done to build on group, account policy managem
 
 Disabling LLMNR as it can accept any response as authentic allowing attackers to posion or spoof LLMNR responses.
 
-2. Creating a GPO to setup account lockout 
+2. Creating a GPO to setup account lockout
 
 Defending against brute force attacks with account lockouts.
 
