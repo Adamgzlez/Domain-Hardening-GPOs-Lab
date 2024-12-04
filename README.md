@@ -39,6 +39,9 @@ Defending against brute force attacks with account lockouts.
 
 Disabling powershell on a workstation VM to migitate protential threats from using it.
 
+[Windows Powershell Policies
+](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/Windows-PowerShell-Policies.png)
+
 4. Scripting access control lists (ACLS)
 
 Scripting ACL to manage which principals can access which resources.
