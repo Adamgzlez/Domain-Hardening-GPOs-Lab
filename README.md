@@ -47,4 +47,14 @@ Disabling powershell on a workstation VM to migitate protential threats from usi
 Scripting ACL to manage which principals can access which resources.
 
 
+Copy of num_acls.ps1 script
 
+$directory = Get-ChildItem 
+foreach ($Item in $directory) {
+    Write-output Get-Acl = $Item
+}
+
+
+
+[Verifying Powershell Logs
+](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/PowerShell-logs.png)
