@@ -36,3 +36,7 @@ Disabling powershell on a workstation VM to migitate protential threats from usi
 4. Scripting access control lists (ACLS)
 
 Scripting ACL to manage which principals can access which resources.
+
+
+[
+](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/Account-Lockout-Policies.png)
