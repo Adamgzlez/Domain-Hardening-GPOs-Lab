@@ -38,5 +38,5 @@ Disabling powershell on a workstation VM to migitate protential threats from usi
 Scripting ACL to manage which principals can access which resources.
 
 
-[
+[pic
 ](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab/blob/main/Account-Lockout-Policies.png)
